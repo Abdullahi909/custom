@@ -1,0 +1,27 @@
+{
+  "name": "custom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullahi909/custom.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdullahi909/custom/issues"
+  },
+  "homepage": "https://github.com/Abdullahi909/custom#readme",
+  "description": "",
+  "dependencies": {
+    "@actions/core": "^2.0.3",
+    "g": "^2.0.1"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.45.0"
+  }
+}
